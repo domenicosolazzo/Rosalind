@@ -8,3 +8,4 @@ Learning bioinformatics and programming through problem solving.
 - [Complementing a Strand of DNA](https://github.com/domenicosolazzo/Rosalind/tree/master/REVC)
 - [Rabbits and Recurrence Relations](https://github.com/domenicosolazzo/Rosalind/tree/master/FIB)
 - [Identifying Unknown DNA Quickly](https://github.com/domenicosolazzo/Rosalind/tree/master/GC)
+- [Counting Point Mutations](https://github.com/domenicosolazzo/Rosalind/tree/master/HAMM)
